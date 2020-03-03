@@ -127,3 +127,11 @@ ul li a:hover {
     color: #fff;
     font-family: cursive;
 }
+.brl {
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+}
+.brr {
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
